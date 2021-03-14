@@ -4,11 +4,13 @@
 
 ---
 
-Table of Contents
+## Table of Contents
 
 - [Backend Projects](#backend-projects)
 - [Frontend Projects](#frontend-Projects)
 <!-- - [Games](#Games)  COMING SOON!!-->
+
+---
 
 # Backend Projects
 
@@ -28,4 +30,12 @@ Table of Contents
 
 | [Live site](https://lucas171.github.io/ShowTrackr/) | [Code](https://github.com/Lucas171/ShowTrackr) |
 | :-------------------------------------------------: | :--------------------------------------------: |
+
+
+### Job Board
+
+![image](https://github.com/Lucas171/JobBoard/raw/master/images/JobBoard.png)
+
+| [Live site](https://lucas171.github.io/JobBoard/) | [Code](https://github.com/Lucas171/JobBoard) |
+| :-----------------------------------------------: | :------------------------------------------: |
 
