@@ -26,7 +26,7 @@
 
 ![image](https://github.com/Lucas171/APIWeather/raw/master/screenshot.png)
 
-| [Live site](https://authentication-app21.herokuapp.com/) | [Code](https://github.com/Lucas171/APIWeather) |
+| [Live site](https://weatherapi23.herokuapp.com/) | [Code](https://github.com/Lucas171/APIWeather) |
 | :------------------------------------------------------: | :--------------------------------------------: |
 
 
