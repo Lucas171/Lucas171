@@ -6,8 +6,8 @@
 
 ## Table of Contents
 
-- [Favorite Backend Projects](#backend-projects)
-- [Favorite Frontend Projects](#frontend-Projects)
+- [Favorite Backend Projects](#favorite-backend-projects)
+- [Favorite Frontend Projects](#favorite-frontend-Projects)
 - [Other Projects](#other-projects)
 <!-- - [Games](#Games)  COMING SOON!!-->
 
