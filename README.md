@@ -54,9 +54,12 @@
 ## Other Projects
 ### Testimonials
 | [Live site](https://lucas171.github.io/testimonials/) | [Code](https://github.com/Lucas171/testimonials) |
+| :-----------------------------------------------: | :------------------------------------------: |
 
 ### Stats Preview
 | [Live site](https://lucas171.github.io/StatsPreview/) | [Code](https://github.com/Lucas171/StatsPreview) |
+| :-----------------------------------------------: | :------------------------------------------: |
 
 ### Order Summary
 | [Live site](https://lucas171.github.io/OrderSummary/) | [Code](https://github.com/Lucas171/OrderSummary) |
+| :-----------------------------------------------: | :------------------------------------------: |
