@@ -13,7 +13,7 @@
 
 ---
 
-# Favorite Backend Projects
+# Backend Projects
 
 ### Authentication Application
 
