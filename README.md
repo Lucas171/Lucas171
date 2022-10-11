@@ -6,14 +6,14 @@
 
 ## Table of Contents
 
-- [Backend Projects](#backend-projects)
-- [Frontend Projects](#frontend-Projects)
+- [Favorite Backend Projects](#backend-projects)
+- [Favorite Frontend Projects](#frontend-Projects)
 - [Other Projects](#other-projects)
 <!-- - [Games](#Games)  COMING SOON!!-->
 
 ---
 
-# Backend Projects
+# Favorite Backend Projects
 
 ### Authentication Application
 
@@ -31,7 +31,7 @@
 | :------------------------------------------------------: | :--------------------------------------------: |
 
 
-# Frontend Projects
+# Favorite Frontend Projects
 
 ### ShowTrackr
 
