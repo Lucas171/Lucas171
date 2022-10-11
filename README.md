@@ -8,7 +8,7 @@
 
 - [Backend Projects](#backend-projects)
 - [Frontend Projects](#frontend-Projects)
-- [Other Projects] (#other-projects)
+- [Other Projects](#other-projects)
 <!-- - [Games](#Games)  COMING SOON!!-->
 
 ---
