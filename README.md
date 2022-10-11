@@ -8,11 +8,12 @@
 
 - [Backend Projects](#backend-projects)
 - [Frontend Projects](#frontend-Projects)
+- [Other Projects] (#other-projects)
 <!-- - [Games](#Games)  COMING SOON!!-->
 
 ---
 
-# Backend Projects
+# Favorite Backend Projects
 
 ### Authentication Application
 
@@ -40,6 +41,8 @@
 | :-------------------------------------------------: | :--------------------------------------------: |
 
 
+
+
 ### Job Board
 
 ![image](https://github.com/Lucas171/JobBoard/raw/master/images/JobBoard.png)
@@ -47,3 +50,7 @@
 | [Live site](https://lucas171.github.io/JobBoard/) | [Code](https://github.com/Lucas171/JobBoard) |
 | :-----------------------------------------------: | :------------------------------------------: |
 
+
+# Other Projects
+
+### SAMPLE
