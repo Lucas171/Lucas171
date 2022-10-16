@@ -11,6 +11,9 @@
 - [Other Projects](#other-projects)
 <!-- - [Games](#Games)  COMING SOON!!-->
 
+
+Also check out my YouTube channel! https://www.youtube.com/user/lucasmiller401
+
 ---
 
 # Favorite Backend Projects
