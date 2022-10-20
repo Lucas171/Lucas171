@@ -40,7 +40,7 @@ Also check out my YouTube channel! https://www.youtube.com/user/lucasmiller401
 
 ![image](https://github.com/Lucas171/react-todolist/blob/gh-pages/Screen%20Shot%202022-10-19%20at%2010.23.02%20PM.png?raw=true)
 
-| [Live site](https://lucas171.github.io/react-todolist/) | [Code](https://github.com/Lucas171/react-todolist) |
+| <a href="https://lucas171.github.io/react-todolist/" target="_blank">Live Site</a>| [Code](https://github.com/Lucas171/react-todolist) |
 | :------------------------------------------------------: | :---------------------------------------: |
 
 ### ShowTrackr
