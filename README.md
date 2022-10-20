@@ -36,6 +36,13 @@ Also check out my YouTube channel! https://www.youtube.com/user/lucasmiller401
 
 # Favorite Frontend Projects
 
+### TodoList (ReactJS)
+
+![image]()
+
+| [Live site](https://lucas171.github.io/react-todolist/) | [Code](https://github.com/Lucas171/react-todolist) |
+| :------------------------------------------------------: | :---------------------------------------: |
+
 ### ShowTrackr
 
 ![image](https://github.com/Lucas171/ShowTrackr/raw/master/images/screenshot.png)
