@@ -4,21 +4,20 @@
 
 ---
 
-## Table of Contents
+## Table of Contents :memo:
 
 - [Favorite Full Stack Projects](#favorite-full-stack-projects)
 - [Favorite Frontend Projects](#favorite-frontend-Projects)
 - [Other Projects](#other-projects)
-<!-- - [Games](#Games)  COMING SOON!!-->
 
 
-Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmiller401" target="_blank">https://www.youtube.com/user/lucasmiller401
+Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmiller401" target="_blank">https://www.youtube.com/user/lucasmiller401 </a> :movie_camera:
 
 ---
 
 # Favorite Full Stack Projects
 
-### Motivate 
+### Motivate :star: :star: :star:
 
 ![image](https://github.com/Lucas171/MotivateApp/blob/master/Screen%20Shot%202022-10-23%20at%2012.00.32%20AM.png?raw=true)
 
