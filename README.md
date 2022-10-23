@@ -1,10 +1,16 @@
 # Hi, I am Lucas Miller :wave:
 
-![](https://via.placeholder.com/728x90.png/FFFF00/000000?text=Army+Futures+Command)
+
+:warning: **Warning:** If you are visiting from the **`Army Futures Command`** Click here -> https://youtu.be/af2CJr7bURA
 
 
 
-If you are visitig from The Army Futures Command Click here -> https://youtu.be/af2CJr7bURA
+
+
+
+
+
+
 
 ## To save you some time, here are some quick references to some of my favorite projects
 
@@ -25,7 +31,7 @@ Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmi
 
 ### Motivate :star: :star: :star:
 
-![image](https://github.com/Lucas171/MotivateApp/blob/master/Screen%20Shot%202022-10-23%20at%2012.00.32%20AM.png?raw=true)
+<img src="https://github.com/Lucas171/MotivateApp/blob/master/Screen%20Shot%202022-10-23%20at%2012.00.32%20AM.png?raw=true" width="500px" height="300px"/>
 
 | [Live site](https://motivate-app.herokuapp.com/) | [Code](https://github.com/Lucas171/MotivateApp) |
 | :------------------------------------------------------: | :---------------------------------------: |
@@ -33,15 +39,16 @@ Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmi
 
 ### Authentication Application
 
-![image](https://github.com/Lucas171/login/blob/master/loginImage.png?raw=true)
+
+<img src="https://github.com/Lucas171/login/blob/master/loginImage.png?raw=true" width="500px" height="300px"/>
+<!-- ![image](https://github.com/Lucas171/login/blob/master/loginImage.png?raw=true) -->
 
 | [Live site](https://authentication-app21.herokuapp.com/) | [Code](https://github.com/Lucas171/login) |
 | :------------------------------------------------------: | :---------------------------------------: |
 
 
 ### Weather API
-
-![image](https://github.com/Lucas171/APIWeather/raw/master/screenshot.png)
+<img src="https://github.com/Lucas171/APIWeather/raw/master/screenshot.png" width="500px" height="300px"/>
 
 | [Live site](https://weatherapi23.herokuapp.com/) | [Code](https://github.com/Lucas171/APIWeather) |
 | :------------------------------------------------------: | :--------------------------------------------: |
@@ -50,23 +57,26 @@ Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmi
 # Favorite Frontend Projects
 
 ### TodoList (ReactJS)
+<img src="https://github.com/Lucas171/react-todolist/blob/gh-pages/Screen%20Shot%202022-10-19%20at%2010.23.02%20PM.png?raw=true" width="500px" height="300px"/>
 
-![image](https://github.com/Lucas171/react-todolist/blob/gh-pages/Screen%20Shot%202022-10-19%20at%2010.23.02%20PM.png?raw=true)
+<!-- ![image]() -->
 
 | <a href="https://lucas171.github.io/react-todolist/" target="_blank">Live Site</a>| [Code](https://github.com/Lucas171/react-todolist) |
 | :------------------------------------------------------: | :---------------------------------------: |
 
 ### ShowTrackr
+<img src="https://github.com/Lucas171/ShowTrackr/raw/master/images/screenshot.png" width="500px" height="300px"/>
 
-![image](https://github.com/Lucas171/ShowTrackr/raw/master/images/screenshot.png)
+<!-- ![image]() -->
 
 | [Live site](https://lucas171.github.io/ShowTrackr/) | [Code](https://github.com/Lucas171/ShowTrackr) |
 | :-------------------------------------------------: | :--------------------------------------------: |
 
 
 ### Job Board
+<img src="https://github.com/Lucas171/JobBoard/raw/master/images/JobBoard.png" width="500px" height="300px"/>
 
-![image](https://github.com/Lucas171/JobBoard/raw/master/images/JobBoard.png)
+<!-- ![image]() -->
 
 | [Live site](https://lucas171.github.io/JobBoard/) | [Code](https://github.com/Lucas171/JobBoard) |
 | :-----------------------------------------------: | :------------------------------------------: |
