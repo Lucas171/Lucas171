@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- [Favorite Backend Projects](#favorite-backend-projects)
+- [Favorite Full Stack Projects](#favorite-full-stack-projects)
 - [Favorite Frontend Projects](#favorite-frontend-Projects)
 - [Other Projects](#other-projects)
 <!-- - [Games](#Games)  COMING SOON!!-->
@@ -16,7 +16,15 @@ Also check out my YouTube channel! https://www.youtube.com/user/lucasmiller401
 
 ---
 
-# Favorite Backend Projects
+# Favorite Full Stack Projects
+
+### Motivate 
+
+![image](https://github.com/Lucas171/MotivateApp/blob/master/Screen%20Shot%202022-10-23%20at%2012.00.32%20AM.png?raw=true)
+
+| [Live site](https://motivate-app.herokuapp.com/) | [Code](https://github.com/Lucas171/MotivateApp) |
+| :------------------------------------------------------: | :---------------------------------------: |
+
 
 ### Authentication Application
 
@@ -49,8 +57,6 @@ Also check out my YouTube channel! https://www.youtube.com/user/lucasmiller401
 
 | [Live site](https://lucas171.github.io/ShowTrackr/) | [Code](https://github.com/Lucas171/ShowTrackr) |
 | :-------------------------------------------------: | :--------------------------------------------: |
-
-
 
 
 ### Job Board
