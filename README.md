@@ -1,5 +1,11 @@
 # Hi, I am Lucas Miller :wave:
 
+![](https://via.placeholder.com/728x90.png/FFFF00/000000?text=Army+Futures+Command)
+
+
+
+If you are visitig from The Army Futures Command Click here -> https://youtu.be/af2CJr7bURA
+
 ## To save you some time, here are some quick references to some of my favorite projects
 
 ---
