@@ -1,7 +1,7 @@
 # Hi, I am Lucas Miller :wave:
 
 
-:warning: **Warning:** If you are visiting from the **`Army Futures Command`** Click here -> https://youtu.be/af2CJr7bURA
+### :warning: **Warning:** If you are visiting from the **`Army Futures Command`** Click here -> https://youtu.be/af2CJr7bURA
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-## To save you some time, here are some quick references to some of my favorite projects
+<!-- ## To save you some time, here are some quick references to some of my favorite projects -->
 
 ---
 
