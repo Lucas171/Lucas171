@@ -12,7 +12,7 @@
 <!-- - [Games](#Games)  COMING SOON!!-->
 
 
-Also check out my YouTube channel! https://www.youtube.com/user/lucasmiller401
+Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmiller401" target="_blank">https://www.youtube.com/user/lucasmiller401
 
 ---
 
