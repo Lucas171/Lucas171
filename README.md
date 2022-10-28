@@ -4,14 +4,6 @@
 #### :warning: :warning: :warning: If you are visiting from the **`Army Futures Command`** Click here -> https://youtu.be/af2CJr7bURA
 
 
-
-
-
-
-
-
-
-
 <!-- ## To save you some time, here are some quick references to some of my favorite projects -->
 
 ---
@@ -29,7 +21,15 @@ Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmi
 
 # Favorite Full Stack Projects
 
-### Motivate :star: :star: :star:
+### Employee Manager ⭐⭐⭐
+
+<img src="https://github.com/Lucas171/employeeManager/blob/main/Screen%20Shot%202022-10-28%20at%2012.57.45%20AM.png?raw=true" width="500px" height="300px"/>
+
+| [Live site](https://arcane-badlands-25706.herokuapp.com/) | [Code](https://github.com/Lucas171/EmployeeManager) |
+| :------------------------------------------------------: | :---------------------------------------: |
+
+
+### Motivate ⭐⭐⭐
 
 <img src="https://github.com/Lucas171/MotivateApp/blob/master/Screen%20Shot%202022-10-23%20at%2012.00.32%20AM.png?raw=true" width="500px" height="300px"/>
 
