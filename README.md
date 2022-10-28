@@ -28,7 +28,7 @@ Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmi
 | [Live site](https://arcane-badlands-25706.herokuapp.com/) | [Code](https://github.com/Lucas171/EmployeeManager) |
 | :------------------------------------------------------: | :---------------------------------------: |
 
-
+---
 ### Motivate ⭐⭐⭐
 
 <img src="https://github.com/Lucas171/MotivateApp/blob/master/Screen%20Shot%202022-10-23%20at%2012.00.32%20AM.png?raw=true" width="500px" height="300px"/>
@@ -36,9 +36,8 @@ Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmi
 | [Live site](https://motivate-app.herokuapp.com/) | [Code](https://github.com/Lucas171/MotivateApp) |
 | :------------------------------------------------------: | :---------------------------------------: |
 
-
+---
 ### Authentication Application
-
 
 <img src="https://github.com/Lucas171/login/blob/master/loginImage.png?raw=true" width="500px" height="300px"/>
 <!-- ![image](https://github.com/Lucas171/login/blob/master/loginImage.png?raw=true) -->
@@ -46,7 +45,7 @@ Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmi
 | [Live site](https://authentication-app21.herokuapp.com/) | [Code](https://github.com/Lucas171/login) |
 | :------------------------------------------------------: | :---------------------------------------: |
 
-
+---
 ### Weather API
 <img src="https://github.com/Lucas171/APIWeather/raw/master/screenshot.png" width="500px" height="300px"/>
 
@@ -63,7 +62,7 @@ Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmi
 
 | <a href="https://lucas171.github.io/react-todolist/" target="_blank">Live Site</a>| [Code](https://github.com/Lucas171/react-todolist) |
 | :------------------------------------------------------: | :---------------------------------------: |
-
+---
 ### ShowTrackr
 <img src="https://github.com/Lucas171/ShowTrackr/raw/master/images/screenshot.png" width="500px" height="300px"/>
 
@@ -72,7 +71,7 @@ Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmi
 | [Live site](https://lucas171.github.io/ShowTrackr/) | [Code](https://github.com/Lucas171/ShowTrackr) |
 | :-------------------------------------------------: | :--------------------------------------------: |
 
-
+---
 ### Job Board
 <img src="https://github.com/Lucas171/JobBoard/raw/master/images/JobBoard.png" width="500px" height="300px"/>
 
