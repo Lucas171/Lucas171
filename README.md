@@ -49,7 +49,7 @@ Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmi
 ### Weather API
 <img src="https://github.com/Lucas171/APIWeather/raw/master/screenshot.png" width="500px" height="300px"/>
 
-| [Live site](https://weatherapi23.herokuapp.com/) | [Code](https://github.com/Lucas171/APIWeather) |
+| [Live site](https://weatherapiapplication.herokuapp.com/) | [Code](https://github.com/Lucas171/APIWeather) |
 | :------------------------------------------------------: | :--------------------------------------------: |
 
 
