@@ -42,7 +42,7 @@ Also check out my YouTube channel! <a href="https://www.youtube.com/user/lucasmi
 <img src="https://github.com/Lucas171/login/blob/master/loginImage.png?raw=true" width="500px" height="300px"/>
 <!-- ![image](https://github.com/Lucas171/login/blob/master/loginImage.png?raw=true) -->
 
-| [Live site](https://authentication-app21.herokuapp.com/) | [Code](https://github.com/Lucas171/login) |
+|  | [Code](https://github.com/Lucas171/login) |
 | :------------------------------------------------------: | :---------------------------------------: |
 
 ---
